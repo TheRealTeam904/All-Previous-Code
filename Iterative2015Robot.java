@@ -1,3 +1,10 @@
+/**
+ * DISCLAIMER:
+ * THERE ARE NO GARUNTEES THAT ANY OF THIS WORKS.
+ * I don't remember if I ever tested it.
+ * Also autonomous isn't working in this.
+ * For an auton example, check the last working version of 2016 code. May be on robotics laptop and not github.
+ * */
 package org.usfirst.frc.team904.robot;
 
 
